@@ -3,12 +3,12 @@
 The 3x3x3 tap code is designed as a 3D array as the table code below:
 
 |-------|-------|-----------|<br>
-| A|B|C | D|E|F |   G|H|I   |
-|-------|-------|-----------|
-| J|K|L | M|N|O |   P|Q|R   |
-|-------|-------|-----------|
-| S|T|U | V|W|X | Y|Z|space |
-|-------|-------|-----------|
+| A|B|C | D|E|F |   G|H|I   |<br>
+|-------|-------|-----------|<br>
+| J|K|L | M|N|O |   P|Q|R   |<br>
+|-------|-------|-----------|<br>
+| S|T|U | V|W|X | Y|Z|space |<br>
+|-------|-------|-----------|<br>
 
 Pause length between dimensions: 1
 Pause length between letters: 2
