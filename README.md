@@ -2,7 +2,7 @@
 
 The 3x3x3 tap code is designed as a 3D array as the table code below:
 
-|-------|-------|-----------|
+|-------|-------|-----------|<br>
 | A|B|C | D|E|F |   G|H|I   |
 |-------|-------|-----------|
 | J|K|L | M|N|O |   P|Q|R   |
