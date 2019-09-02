@@ -1,6 +1,7 @@
 # 3x3x3 Tap Code Transmitter and Receiver
 
-The 3x3x3 tap code is *designed* as a 3D array as the table code below:
+* Similar to morse code, Tap code is a way to encode text messages on a letter-by-letter basis. The message is transmitted using a series of tap sounds.
+* The 3x3x3 tap code is *designed* as a 3D array as the table code below:
 <pre>
 |-------|-------|-----------|
 | A|B|C | D|E|F |   G|H|I   |
