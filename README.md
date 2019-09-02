@@ -27,8 +27,10 @@ The 3x3x3 tap code is *designed* as a 3D array as the table code below:
 </pre>
 
 ### Circuit
-
+![](https://github.com/Ahid-Naif/3x3x3-Tap-Code-transmitter-and-receiver/blob/master/Circuit%20schematic/Sound_Transmitter.png)
 ## Receiver
 On the other side, the receiver which is a digital microphone receives the sound signal and decodes it back to retrieve the message "Hello". There is a low-pass filter applied to the circuit to remove any noise from the readings of the microphone.
 
 ### Circuit
+![](https://github.com/Ahid-Naif/3x3x3-Tap-Code-transmitter-and-receiver/blob/master/Circuit%20schematic/sound_receiver.png)
+* **Note**: the used capcitor is a ceramic capacitor.
