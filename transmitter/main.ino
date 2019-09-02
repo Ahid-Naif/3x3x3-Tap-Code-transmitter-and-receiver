@@ -2,7 +2,7 @@
 
 void setup()
 {
-	Transmitter transmitter(11, 50);
+	Transmitter transmitter(11, 30);
 
 	transmitter.SendMessage("Hello World");
 
