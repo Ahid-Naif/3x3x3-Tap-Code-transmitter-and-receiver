@@ -1,4 +1,4 @@
-# 3x3x3-Tap-Code-transmitter-and-receiver
+# 3x3x3 Tap Code Transmitter and Receiver
 
 The 3x3x3 tap code is *designed* as a 3D array as the table code below:
 <pre>
